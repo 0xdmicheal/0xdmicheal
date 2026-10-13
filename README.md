@@ -15,13 +15,11 @@ Graphic designer and creative director from Mongolia with five-plus years of shi
   <tr><td><b>Pixel & character</b></td><td>Sprites, portraits, collection identity. Hands on in Aseprite, not just directed.</td></tr>
   <tr><td><b>Launch systems</b></td><td>Whitepapers, Gitbook, decks and the visual kit a drop actually ships with.</td></tr>
   <tr><td><b>Websites</b></td><td>Brand and portfolio sites that look exactly like the brand and load fast.</td></tr>
-  <tr><td><b>Web apps</b></td><td>Full products with accounts, dashboards and editors, taken from idea to launch with AI.</td></tr>
+  <tr><td><b>Web apps</b></td><td>Full products with accounts, dashboards and editors, taken from idea to launch.</td></tr>
   <tr><td><b>Architecture</b></td><td>Planning how an app fits together: pages, data, logins and background jobs, so it can grow without a rewrite.</td></tr>
 </table>
 
 <img src="assets/h-work.svg" width="100%" alt="How I work" />
-
-<img align="right" src="assets/kicker.gif" width="104" alt="pixel character" />
 
 ```text
 01  ADOPT     the brief walks in messy. I take it as it is.
@@ -30,12 +28,6 @@ Graphic designer and creative director from Mongolia with five-plus years of shi
 04  DEVELOP   marks, surfaces, the kit a launch ships with.
 05  BUILD     describe it to AI, squint like a designer, ship it.
 ```
-
-<br clear="right" />
-
-<img src="assets/h-pixel.svg" width="100%" alt="Pixel work" />
-
-<img src="assets/insomnus.gif" width="100%" alt="Insomnus pixel game world" />
 
 <img src="assets/h-tools.svg" width="100%" alt="Toolkit" />
 
